@@ -18,4 +18,4 @@ if FILE is not specified, outputs to <CURRENT_YEAR>.html
 use -h to print this page, -x8 and -x16 enable secret display mode :)
 ```
 
-Done within Tagd_Tagd bash course, thank you all!
+Done within Tagd_Tagd bash course, thank you!
